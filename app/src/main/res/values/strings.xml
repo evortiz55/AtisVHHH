@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">VHHH ATIS</string>
+    <string name="departure_atis">Departure ATIS</string>
+    <string name="vhhh_atis">VHHH ATIS</string>
+    <string name="arrival_atis">Arrival ATIS</string>
+    <string name="refresh">REFRESH</string>
 </resources>
